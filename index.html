@@ -1,1 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <title>Manuel Padrão — Founder & CEO of CozeCare</title>
+
+  <meta
+    name="description"
+    content="Manuel Padrão is the Founder & CEO of CozeCare. Discover his story, mission, work and media coverage."
+  />
+
+  <meta name="author" content="Manuel Padrão" />
+  <meta name="robots" content="index, follow" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Manuel Padrão — Founder & CEO of CozeCare" />
+  <meta
+    property="og:description"
+    content="Entrepreneur, founder and CEO of CozeCare."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://manuelpadrao.com" />
+
+  <link rel="canonical" href="https://manuelpadrao.com" />
+
+  <style>
+    :root {
+      --background: #f7f7f4;
+      --text: #111111;
+      --muted: #6e6e68;
+      --line: #deded8;
+      --card: #ffffff;
+      --accent: #111111;
+      --max-width: 1160px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+      background: var(--background);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      width: min(92%, var(--max-width));
+      margin: 0 auto;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(247, 247, 244, 0.92);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid transparent;
+    }
+
+    nav {
+      min-height: 74px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .nav-links a:hover {
+      color: var(--text);
+    }
+
+    .hero {
+      min-height: 82vh;
+      display: flex;
+      align-items: center;
+      padding: 90px 0;
+    }
+
+    .hero-content {
+      max-width: 900px;
+    }
+
+    .eyebrow {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 26px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    h1 {
+      font-size: clamp(58px, 9vw, 118px);
+      line-height: 0.94;
+      letter-spacing: -0.07em;
+      font-weight: 600;
+      max-width: 1050px;
+    }
+
+    .hero-description {
+      max-width: 700px;
+      font-size: clamp(20px, 2.4vw, 31px);
+      line-height: 1.35;
+      letter-spacing: -0.03em;
+      margin-top: 42px;
+      color: #393936;
+    }
+
+    .hero-buttons {
+      margin-top: 42px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 0 22px;
+      border-radius: 100px;
+      font-size: 14px;
+      font-weight: 600;
+      transition: 0.2s ease;
+    }
+
+    .button-dark {
+      background: var(--text);
+      color: white;
+    }
+
+    .button-dark:hover {
+      opacity: 0.8;
+      transform: translateY(-1px);
+    }
+
+    .button-outline {
+      border: 1px solid var(--line);
+      background: transparent;
+    }
+
+    .button-outline:hover {
+      background: white;
+    }
+
+    section {
+      padding: 110px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .section-grid {
+      display: grid;
+      grid-template-columns: 1fr 2.2fr;
+      gap: 80px;
+    }
+
+    .section-label {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+
+    .section-content h2 {
+      font-size: clamp(36px, 5vw, 66px);
+      line-height: 1.05;
+      letter-spacing: -0.055em;
+      font-weight: 500;
+      max-width: 850px;
+    }
+
+    .section-content p {
+      margin-top: 32px;
+      font-size: 19px;
+      color: #484844;
+      max-width: 760px;
+    }
+
+    .cozecare-box {
+      margin-top: 52px;
+      padding: 42px;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+    }
+
+    .cozecare-title {
+      font-size: 34px;
+      font-weight: 600;
+      letter-spacing: -0.04em;
+    }
+
+    .cozecare-box p {
+      margin-top: 16px;
+      max-width: 690px;
+    }
+
+    .text-link {
+      display: inline-block;
+      margin-top: 30px;
+      font-weight: 600;
+      font-size: 15px;
+      border-bottom: 1px solid var(--text);
+      padding-bottom: 2px;
+    }
+
+    .press-list {
+      margin-top: 52px;
+      border-top: 1px solid var(--line);
+    }
+
+    .press-item {
+      display: grid;
+      grid-template-columns: 160px 1fr 100px;
+      gap: 24px;
+      align-items: center;
+      padding: 27px 0;
+      border-bottom: 1px solid var(--line);
+      transition: 0.2s ease;
+    }
+
+    .press-item:hover {
+      padding-left: 10px;
+    }
+
+    .press-publication {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .press-title {
+      font-size: 19px;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+    }
+
+    .press-date {
+      color: var(--muted);
+      text-align: right;
+      font-size: 14px;
+    }
+
+    .connect-links {
+      margin-top: 45px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .connect-link {
+      font-size: clamp(32px, 5vw, 58px);
+      letter-spacing: -0.05em;
+      padding: 18px 0;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .connect-link span {
+      font-size: 24px;
+      transition: 0.2s ease;
+    }
+
+    .connect-link:hover span {
+      transform: translate(5px, -5px);
+    }
+
+    footer {
+      padding: 40px 0 60px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .footer-content {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    @media (max-width: 760px) {
+      .nav-links a:not(:last-child) {
+        display: none;
+      }
+
+      .hero {
+        min-height: 76vh;
+        padding: 70px 0;
+      }
+
+      .section-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+
+      section {
+        padding: 80px 0;
+      }
+
+      .press-item {
+        grid-template-columns: 1fr;
+        gap: 7px;
+      }
+
+      .press-date {
+        text-align: left;
+      }
+
+      .cozecare-box {
+        padding: 28px;
+      }
+
+      .footer-content {
+        flex-direction: column;
+      }
+    }
+  </style>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Manuel Padrão",
+    "url": "https://manuelpadrao.com",
+    "jobTitle": "Founder & CEO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "CozeCare",
+      "url": "https://cozecare.com"
+    },
+    "sameAs": [
+      "YOUR_LINKEDIN_URL"
+    ]
+  }
+  </script>
+
+</head>
+
+<body>
+
+  <header>
+    <div class="container">
+      <nav>
+        <a href="#" class="logo">Manuel Padrão</a>
+
+        <div class="nav-links">
+          <a href="#story">Story</a>
+          <a href="#cozecare">CozeCare</a>
+          <a href="#press">Press</a>
+          <a href="#connect">Connect</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-content">
+
+          <div class="eyebrow">
+            Founder & CEO · CozeCare
+          </div>
+
+          <h1>
+            Manuel<br />
+            Padrão.
+          </h1>
+
+          <p class="hero-description">
+            Entrepreneur and founder building technology with a simple mission:
+            to make care more human, connected and accessible.
+          </p>
+
+          <div class="hero-buttons">
+            <a href="#story" class="button button-dark">
+              My story
+            </a>
+
+            <a
+              href="https://cozecare.com"
+              target="_blank"
+              class="button button-outline"
+            >
+              CozeCare ↗
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+
+    <!-- MISSION -->
+    <section>
+      <div class="container section-grid">
+
+        <div class="section-label">
+          Mission
+        </div>
+
+        <div class="section-content">
+          <h2>
+            Technology should bring people closer, not push them further apart.
+          </h2>
+
+          <p>
+            I believe the best technology solves meaningful human problems.
+            My work is focused on building products and companies that improve
+            how people connect, support one another and access care.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- STORY -->
+    <section id="story">
+      <div class="container section-grid">
+
+        <div class="section-label">
+          My Story
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            Building something that matters.
+          </h2>
+
+          <p>
+            My journey as a founder started with a simple observation:
+            some of the most important challenges people face are still solved
+            with fragmented systems, outdated processes and unnecessary
+            complexity.
+          </p>
+
+          <p>
+            That led me to build CozeCare — with the ambition of using
+            technology to create a better, simpler and more human experience
+            around care.
+          </p>
+
+          <p>
+            Today, my focus is on growing CozeCare, learning from the people
+            we serve and building a company capable of creating meaningful
+            long-term impact.
+          </p>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- COZECARE -->
+    <section id="cozecare">
+      <div class="container section-grid">
+
+        <div class="section-label">
+          CozeCare
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            Rethinking the future of care.
+          </h2>
+
+          <div class="cozecare-box">
+
+            <div class="cozecare-title">
+              CozeCare
+            </div>
+
+            <p>
+              CozeCare is a technology company focused on creating simpler,
+              more connected and more human experiences in care.
+            </p>
+
+            <a
+              href="https://cozecare.com"
+              target="_blank"
+              class="text-link"
+            >
+              Discover CozeCare ↗
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- PRESS -->
+    <section id="press">
+      <div class="container section-grid">
+
+        <div class="section-label">
+          Press & Media
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            Selected coverage.
+          </h2>
+
+          <div class="press-list">
+
+            <!--
+            DUPLICA ESTE BLOCO PARA CADA NOTÍCIA.
+            Troca # pelo link real.
+            -->
+
+            <a href="#" target="_blank" class="press-item">
+              <div class="press-publication">
+                Publication
+              </div>
+
+              <div class="press-title">
+                Add your first article, interview or feature here
+              </div>
+
+              <div class="press-date">
+                2026 ↗
+              </div>
+            </a>
+
+
+            <a href="#" target="_blank" class="press-item">
+              <div class="press-publication">
+                Publication
+              </div>
+
+              <div class="press-title">
+                Add another media feature about Manuel Padrão or CozeCare
+              </div>
+
+              <div class="press-date">
+                2026 ↗
+              </div>
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- CONNECT -->
+    <section id="connect">
+      <div class="container section-grid">
+
+        <div class="section-label">
+          Connect
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            Let's connect.
+          </h2>
+
+          <div class="connect-links">
+
+            <!-- TROCA PELO TEU LINKEDIN REAL -->
+            <a
+              href="YOUR_LINKEDIN_URL"
+              target="_blank"
+              class="connect-link"
+            >
+              LinkedIn
+              <span>↗</span>
+            </a>
+
+            <a
+              href="https://cozecare.com"
+              target="_blank"
+              class="connect-link"
+            >
+              CozeCare
+              <span>↗</span>
+            </a>
+
+            <!-- TROCA PELO TEU EMAIL -->
+            <a
+              href="mailto:YOUR_EMAIL"
+              class="connect-link"
+            >
+              Email
+              <span>↗</span>
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+
+  <footer>
+    <div class="container footer-content">
+
+      <div>
+        © <span id="year"></span> Manuel Padrão
+      </div>
+
+      <div>
+        Founder & CEO · CozeCare
+      </div>
+
+    </div>
+  </footer>
+
+
+  <script>
+    document.getElementById("year").textContent =
+      new Date().getFullYear();
+  </script>
+
+</body>
+</html>
