@@ -6,6 +6,7 @@ Registo das escolhas do Manuel. Atualizar sempre que algo mudar.
 - Dúvidas: perguntar sempre com perguntas de seleção múltipla.
 - UI: não mudar o estilo existente. Clean, simples, premium, nada "AI".
 - Texto: pouco. Sem subtítulos descritivos.
+- Voz: todo o site na 3.ª pessoa (Manuel Padrão / Cozecare). Sem "I", "we", "my", "our" nem equivalentes em PT.
 
 ## Escolhas
 | Tema | Decisão |

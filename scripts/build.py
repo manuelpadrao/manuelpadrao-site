@@ -24,24 +24,24 @@ ARTICLES = [
         "date": date(2026, 10, 23),
         "en": {
             "slug": "mental-health-affects-productivity",
-            "title": "Are we paying enough attention to mental health?",
+            "title": "Is mental health getting enough attention?",
             "desc": "70% of employees say their mental health affects their productivity.",
             "body": [
                 "The impact of mental health struggles often goes unnoticed, but it’s felt every day.",
                 "70% of employees say their mental health affects their productivity.",
                 "Behind every statistic is a person who deserves to feel supported, understood and heard.",
-                "At {coze:Cozecare}, we believe {coze:mental health} deserves attention before things become overwhelming.",
+                "{coze:Cozecare} believes {coze:mental health} deserves attention before things become overwhelming.",
             ],
         },
         "pt": {
             "slug": "saude-mental-afeta-produtividade",
-            "title": "Estamos a dar atenção suficiente à saúde mental?",
+            "title": "A saúde mental recebe atenção suficiente?",
             "desc": "70% dos colaboradores dizem que a sua saúde mental afeta a produtividade.",
             "body": [
                 "O impacto das dificuldades de saúde mental passa muitas vezes despercebido, mas sente-se todos os dias.",
                 "70% dos colaboradores dizem que a sua saúde mental afeta a sua produtividade.",
                 "Por trás de cada estatística está uma pessoa que merece sentir-se apoiada, compreendida e ouvida.",
-                "Na {coze:Cozecare}, acreditamos que a {coze:saúde mental} merece atenção antes de as coisas se tornarem esmagadoras.",
+                "A {coze:Cozecare} acredita que a {coze:saúde mental} merece atenção antes de as coisas se tornarem esmagadoras.",
             ],
         },
     },
@@ -58,7 +58,7 @@ ARTICLES = [
                 "That’s over €13 billion every year.",
                 "But behind these numbers are real people struggling with stress, anxiety and burnout.",
                 "Mental health isn’t just a personal matter. It’s a business priority.",
-                "At {coze:Cozecare}, we believe prevention, accessible psychological support and healthier workplaces are essential to building stronger organisations.",
+                "{coze:Cozecare} believes prevention, accessible psychological support and healthier workplaces are essential to building stronger organisations.",
                 "Because taking care of people means taking care of business.",
                 "Source: Portuguese Psychologists Association (OPP), 2026.",
             ],
@@ -72,7 +72,7 @@ ARTICLES = [
                 "São mais de 13 mil milhões de euros por ano.",
                 "Mas por trás destes números estão pessoas reais a lidar com stress, ansiedade e burnout.",
                 "A saúde mental não é apenas um assunto pessoal. É uma prioridade de negócio.",
-                "Na {coze:Cozecare}, acreditamos que prevenção, apoio psicológico acessível e locais de trabalho mais saudáveis são essenciais para construir organizações mais fortes.",
+                "A {coze:Cozecare} acredita que prevenção, apoio psicológico acessível e locais de trabalho mais saudáveis são essenciais para construir organizações mais fortes.",
                 "Porque cuidar das pessoas é cuidar do negócio.",
                 "Fonte: Ordem dos Psicólogos Portugueses (OPP), 2026.",
             ],
@@ -90,7 +90,7 @@ ARTICLES = [
                 "Presenteeism is costing Portuguese companies an estimated €8.9 billion every year in lost productivity, according to the Portuguese Psychologists Association.",
                 "That’s nearly twice the estimated cost of absenteeism. Employees may be physically present but struggling with stress, exhaustion or mental health challenges that affect their performance.",
                 "Being present doesn’t always mean being well.",
-                "At {coze:Cozecare}, we believe {coze:workplace mental health} should go beyond reactive solutions, focusing on prevention, continuous support and accessible psychological care.",
+                "{coze:Cozecare} believes {coze:workplace mental health} should go beyond reactive solutions, focusing on prevention, continuous support and accessible psychological care.",
                 "Because employee wellbeing shouldn’t be addressed only when people reach breaking point.",
                 "Source: Portuguese Psychologists Association (OPP), 2026.",
             ],
@@ -103,7 +103,7 @@ ARTICLES = [
                 "O presentismo custa às empresas portuguesas cerca de 8,9 mil milhões de euros por ano em produtividade perdida, segundo a Ordem dos Psicólogos Portugueses.",
                 "É quase o dobro do custo estimado do absentismo. Os colaboradores podem estar fisicamente presentes, mas a lidar com stress, exaustão ou desafios de saúde mental que afetam o seu desempenho.",
                 "Estar presente nem sempre significa estar bem.",
-                "Na {coze:Cozecare}, acreditamos que a {coze:saúde mental no trabalho} deve ir além das soluções reativas, com foco em prevenção, acompanhamento contínuo e cuidado psicológico acessível.",
+                "A {coze:Cozecare} acredita que a {coze:saúde mental no trabalho} deve ir além das soluções reativas, com foco em prevenção, acompanhamento contínuo e cuidado psicológico acessível.",
                 "Porque o bem-estar dos colaboradores não deve ser tratado só quando as pessoas chegam ao limite.",
                 "Fonte: Ordem dos Psicólogos Portugueses (OPP), 2026.",
             ],
@@ -115,25 +115,25 @@ ARTICLES = [
         "date": date(2026, 10, 9),
         "en": {
             "slug": "mental-health-biggest-health-challenge",
-            "title": "Mental health is now perceived as the biggest health challenge of our time.",
+            "title": "Mental health is now perceived as the biggest health challenge of this era.",
             "desc": "45% of adults across 30 countries rank mental health issues ahead of cancer, obesity and cardiovascular disease.",
             "body": [
                 "45% of adults across 30 countries identify mental health issues as one of the main health challenges in their societies today, ahead of cancer, obesity and cardiovascular disease.",
-                "This reinforces something we strongly believe at {coze:Cozecare}: mental healthcare cannot remain something people only turn to when they are already struggling.",
+                "This reinforces something Cozecare strongly believes: mental healthcare cannot remain something people only turn to when they are already struggling.",
                 "It needs to become more accessible, continuous and proactive.",
-                "That’s what we’re building at Cozecare, {coze:mental health support} that goes beyond isolated moments of care and becomes part of everyday life.",
+                "That’s what {coze:Cozecare} is building: {coze:mental health support} that goes beyond isolated moments of care and becomes part of everyday life.",
                 "Source: Ipsos Health Service Report 2025. 23,172 adults online (under age 75) surveyed in 30 countries between July and August 2025.",
             ],
         },
         "pt": {
             "slug": "saude-mental-maior-desafio",
-            "title": "A saúde mental é hoje vista como o maior desafio de saúde do nosso tempo.",
+            "title": "A saúde mental é hoje vista como o maior desafio de saúde da atualidade.",
             "desc": "45% dos adultos em 30 países colocam a saúde mental à frente do cancro, da obesidade e das doenças cardiovasculares.",
             "body": [
                 "45% dos adultos em 30 países identificam os problemas de saúde mental como um dos principais desafios de saúde das suas sociedades, à frente do cancro, da obesidade e das doenças cardiovasculares.",
-                "Isto reforça algo em que acreditamos muito na {coze:Cozecare}: os cuidados de saúde mental não podem ser algo a que as pessoas só recorrem quando já estão a sofrer.",
+                "Isto reforça algo em que a {coze:Cozecare} acredita muito: os cuidados de saúde mental não podem ser algo a que as pessoas só recorrem quando já estão a sofrer.",
                 "Têm de ser mais acessíveis, contínuos e proativos.",
-                "É isso que estamos a construir na Cozecare, {coze:apoio em saúde mental} que vai além de momentos isolados de cuidado e passa a fazer parte do dia a dia.",
+                "É isso que a {coze:Cozecare} está a construir: {coze:apoio em saúde mental} que vai além de momentos isolados de cuidado e passa a fazer parte do dia a dia.",
                 "Fonte: Ipsos Health Service Report 2025. 23.172 adultos online (menos de 75 anos) inquiridos em 30 países entre julho e agosto de 2025.",
             ],
         },
@@ -148,8 +148,8 @@ ARTICLES = [
             "desc": "How Cozecare became one of the largest mental health platforms in Portugal.",
             "body": [
                 "{coze:Cozecare} now has a network of 300+ psychologists and solutions that cover 300K+ people, one of the largest mental health platforms in Portugal.",
-                "For individuals, we help people find the right psychologist, access online sessions and stay supported between appointments with check-ins, personalised exercises and mindfulness.",
-                "For companies, we combine access to professional care with prevention, burnout prevention and actionable wellbeing data for People teams.",
+                "For individuals, Cozecare helps people find the right psychologist, access online sessions and stay supported between appointments with check-ins, personalised exercises and mindfulness.",
+                "For companies, Cozecare combines access to professional care with prevention, burnout prevention and actionable wellbeing data for People teams.",
                 "The goal is simple: make mental healthcare easier to access, continuous and personalised.",
             ],
         },
@@ -159,8 +159,8 @@ ARTICLES = [
             "desc": "Como a Cozecare se tornou uma das maiores plataformas de saúde mental em Portugal.",
             "body": [
                 "A {coze:Cozecare} tem hoje uma rede de 300+ psicólogos e soluções que cobrem mais de 300 mil pessoas, uma das maiores plataformas de saúde mental em Portugal.",
-                "Para pessoas, ajudamos a encontrar o psicólogo certo, a aceder a sessões online e a manter apoio entre consultas, com check-ins, exercícios personalizados e mindfulness.",
-                "Para empresas, combinamos acesso a cuidado profissional com prevenção, prevenção de burnout e dados de bem-estar acionáveis para as equipas de People.",
+                "Para pessoas, a Cozecare ajuda a encontrar o psicólogo certo, a aceder a sessões online e a manter apoio entre consultas, com check-ins, exercícios personalizados e mindfulness.",
+                "Para empresas, a Cozecare combina acesso a cuidado profissional com prevenção, prevenção de burnout e dados de bem-estar acionáveis para as equipas de People.",
                 "O objetivo é simples: uma saúde mental mais acessível, contínua e personalizada.",
             ],
         },
@@ -176,10 +176,10 @@ ARTICLES = [
             "body": [
                 "Portugal ranked #1 for burnout risk in this European study.",
                 "Burnout should not be something companies only address once employees are already struggling.",
-                "At {coze:Cozecare}, we help organisations move from reactive support to prevention, continuous employee wellbeing and accessible workplace mental health care.",
-                "Our approach works as a {coze:modern EAP alternative}, combining employee mental health support, online psychology, burnout prevention, wellbeing tools and actionable data for People teams.",
+                "{coze:Cozecare} helps organisations move from reactive support to prevention, continuous employee wellbeing and accessible workplace mental health care.",
+                "Its approach works as a {coze:modern EAP alternative}, combining employee mental health support, online psychology, burnout prevention, wellbeing tools and actionable data for People teams.",
                 "Because healthier workplaces are built before burnout happens.",
-                "If you’re looking for an {coze:EAP in Portugal}, corporate mental health solution or workplace wellbeing platform, let’s talk.",
+                "If you’re looking for an {coze:EAP in Portugal}, corporate mental health solution or workplace wellbeing platform, get in touch.",
             ],
         },
         "pt": {
@@ -189,10 +189,10 @@ ARTICLES = [
             "body": [
                 "Portugal ficou em 1.º lugar no risco de burnout neste estudo europeu.",
                 "O burnout não deve ser algo que as empresas só tratam quando os colaboradores já estão a sofrer.",
-                "Na {coze:Cozecare}, ajudamos as organizações a passar do apoio reativo para a prevenção, o bem-estar contínuo dos colaboradores e o acesso a cuidados de saúde mental no trabalho.",
-                "A nossa abordagem funciona como uma {coze:alternativa moderna a um EAP}, combinando apoio de saúde mental para colaboradores, psicologia online, prevenção de burnout, ferramentas de bem-estar e dados acionáveis para as equipas de People.",
+                "A {coze:Cozecare} ajuda as organizações a passar do apoio reativo para a prevenção, o bem-estar contínuo dos colaboradores e o acesso a cuidados de saúde mental no trabalho.",
+                "A sua abordagem funciona como uma {coze:alternativa moderna a um EAP}, combinando apoio de saúde mental para colaboradores, psicologia online, prevenção de burnout, ferramentas de bem-estar e dados acionáveis para as equipas de People.",
                 "Porque locais de trabalho mais saudáveis constroem-se antes de o burnout acontecer.",
-                "Se procuras um {coze:EAP em Portugal}, uma solução de saúde mental corporativa ou uma plataforma de bem-estar no trabalho, vamos falar.",
+                "Se procuras um {coze:EAP em Portugal}, uma solução de saúde mental corporativa ou uma plataforma de bem-estar no trabalho, entre em contacto.",
             ],
         },
     },
@@ -204,7 +204,7 @@ LANGS = {
         "label": "Insights", "title": "Insights", "back": "← Back", "all": "All insights",
         "read": "Read ↗", "linkedin": "Shared on LinkedIn ↗", "discover": "Discover Cozecare ↗",
         "idx_desc": "Notes by Manuel Padrão, Founder & CEO of Cozecare, on workplace mental health, burnout prevention and healthcare technology.",
-        "nav": [("Story", "/#story"), ("Cozecare", "/#cozecare"), ("Insights", "/insights/"), ("Connect", "/#connect")],
+        "nav": [("Insights", "/insights/")],
         "role": "Founder & CEO",
         "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
         "fmt": lambda d, m: f"{m[d.month - 1]} {d.day}, {d.year}",
@@ -214,7 +214,7 @@ LANGS = {
         "label": "Insights", "title": "Insights", "back": "← Voltar", "all": "Todos os insights",
         "read": "Ler ↗", "linkedin": "Partilhado no LinkedIn ↗", "discover": "Conhecer a Cozecare ↗",
         "idx_desc": "Notas de Manuel Padrão, Founder & CEO da Cozecare, sobre saúde mental no trabalho, prevenção de burnout e tecnologia na saúde.",
-        "nav": [("História", "/pt/#historia"), ("Cozecare", "/pt/#cozecare"), ("Insights", "/pt/insights/"), ("Contacto", "/pt/#contacto")],
+        "nav": [("Insights", "/pt/insights/")],
         "role": "Founder & CEO",
         "months": ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"],
         "fmt": lambda d, m: f"{d.day} de {m[d.month - 1]} de {d.year}",
@@ -222,6 +222,9 @@ LANGS = {
 }
 
 e = html.escape
+
+SOCIAL = '<div class="nav-social">\n          <a href="https://www.linkedin.com/in/manuelpadrao" target="_blank" rel="me noopener" aria-label="LinkedIn" title="LinkedIn">\n            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452z"/></svg>\n          </a>\n          <a href="mailto:manuel@cozecare.com" aria-label="Email" title="manuel@cozecare.com">\n            <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m4 7.5 8 6 8-6"/></svg>\n          </a>\n        </div>\n\n        '
+
 
 # Back goes to the page the reader came from (home or list); falls back to the list.
 BACK_JS = """  <script>
@@ -315,7 +318,7 @@ def header_html(lang, alt_path):
   <header>
     <div class="container">
       <nav>
-        <a href="{L['prefix'] or ''}/" class="logo">Manuel Padrão</a>
+        {SOCIAL}<a href="{L['prefix'] or ''}/" class="logo">Manuel Padrão</a>
 
         <div class="nav-links">
           {links}
@@ -353,11 +356,7 @@ def list_html(lang):
     items = []
     for a in ARTICLES:
         t = a[lang]
-        items.append(f"""            <a href="{url_of(lang, a)}" class="insight-item">
-              <div class="insight-date">{e(fmt_date(lang, a['date']))}</div>
-              <div class="insight-title">{e(t['title'])}</div>
-              <div class="insight-arrow">↗</div>
-            </a>""")
+        items.append(f"""            <a href="{url_of(lang, a)}" class="insight-item">{e(t['title'])}</a>""")
     return "\n".join(items)
 
 
@@ -384,6 +383,7 @@ def index_page(lang):
   <main>
     <section class="page-top">
       <div class="container">
+        <a href="{L['prefix'] or ''}/" class="back" id="back">{L['back']}</a>
         <h1 class="page-title">Insights</h1>
         <div class="insight-list">
 {list_html(lang)}
@@ -392,7 +392,7 @@ def index_page(lang):
     </section>
   </main>
 """
-        + footer_html()
+        + footer_html().replace("</body>", BACK_JS + "</body>")
     )
 
 
