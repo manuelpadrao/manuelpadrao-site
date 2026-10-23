@@ -10,4 +10,86 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/" />
     <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/" />
   </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/mental-health-affects-productivity/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-affects-productivity/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-afeta-produtividade/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/saude-mental-afeta-produtividade/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-affects-productivity/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-afeta-produtividade/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/mental-health-business-priority/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-business-priority/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-prioridade-empresarial/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/saude-mental-prioridade-empresarial/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-business-priority/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-prioridade-empresarial/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/being-present-is-not-being-well/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/being-present-is-not-being-well/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/estar-presente-nao-e-estar-bem/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/estar-presente-nao-e-estar-bem/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/being-present-is-not-being-well/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/estar-presente-nao-e-estar-bem/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/mental-health-biggest-health-challenge/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-biggest-health-challenge/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-maior-desafio/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/saude-mental-maior-desafio/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/mental-health-biggest-health-challenge/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/saude-mental-maior-desafio/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/300-psychologists-300k-people/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/300-psychologists-300k-people/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/300-psicologos-300-mil-pessoas/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/300-psicologos-300-mil-pessoas/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/300-psychologists-300k-people/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/300-psicologos-300-mil-pessoas/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/insights/portugal-burnout-risk/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/portugal-burnout-risk/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/portugal-risco-de-burnout/" />
+  </url>
+  <url>
+    <loc>https://manuelpadrao.com/pt/insights/portugal-risco-de-burnout/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://manuelpadrao.com/insights/portugal-burnout-risk/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://manuelpadrao.com/pt/insights/portugal-risco-de-burnout/" />
+  </url>
 </urlset>

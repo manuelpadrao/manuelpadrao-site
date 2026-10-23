@@ -15,6 +15,16 @@ Registo das escolhas do Manuel. Atualizar sempre que algo mudar.
 | Domínio | manuelpadrao.com |
 | Backlinks | Links contextuais com anchor variado para cozecare.com, sem nofollow |
 
+| Foto hero | Retrato completo, sem cortes, altura limitada ao ecrã (sem scroll no hero) |
+| Blog | Secção "Insights" (`/insights/`, `/pt/insights/`), um artigo por post do LinkedIn, EN + PT |
+| Texto dos artigos | Reescrito em nome do Manuel, curto, a partir dos resumos dos posts |
+| Fotos dos artigos | O Manuel envia pelo chat; guardar em `assets/insights/<id>.jpg` e correr o build |
+
+## Como editar os artigos
+- Conteúdo em `scripts/build.py` (lista ARTICLES). Depois: `python scripts/build.py`.
+- O script gera os artigos, as listas das homes e o sitemap. Não editar esses ficheiros à mão.
+- Só falta o artigo 300-psychologists (texto e foto originais por enviar; o texto atual é resumido).
+
 ## Dados
 - LinkedIn: https://www.linkedin.com/in/manuelpadrao
 - Cozecare: https://cozecare.com/
